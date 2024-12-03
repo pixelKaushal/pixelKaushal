@@ -1,6 +1,3 @@
--
-
-<!---
-KaushalLMAO/KaushalLMAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Kaushal Gautam
+Iam 16 Years old
+Iam currently learning React JS 
