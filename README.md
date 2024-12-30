@@ -33,7 +33,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" style="width: 70px; height: 70px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="width: 70px; height: 70px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="width: 70px; height: 70px;" />
-
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" style="width: 70px; height: 70px;" />
     <img src="https://seeklogo.com/images/L/luau-programming-language-logo-4E5D70055F-seeklogo.com.png" alt="Luau" title="Luau" style="width: 70px; height: 70px;" />
   </div>
